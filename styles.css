@@ -1,0 +1,116 @@
+body{
+    background: url("https://www.npr.org/assets/img/2018/02/09/Methylene-Blue-drop.gif");
+}
+img{
+    border: 10px dotted #FFFFFF;
+}
+h1 {
+    color: 	#030000;
+}
+h2 {
+    color: 	red;
+}
+h1 {
+  text-align: center;
+}
+.img-container-block {
+  text-align: center;
+}
+h2{
+    font-family: 'Wallpoet', cursive;
+}
+h1{
+   font-family: 'Anton', sans-serif;
+}
+p{
+    font-family: 'Lobster', cursive;
+}
+p{
+    color:#060F6D;
+}
+img{
+    background-color:#71182C;
+    width:400px;
+    height:400px;
+    border-radius:50px;
+}
+h3{
+    font-family: 'Rye', cursive;
+}
+h3 {
+  text-align: center;
+}
+
+.pop {
+    font-family: 'Monoton', cursive;
+}
+.pop{
+    background-color:black;
+    width:700px;
+    height:60px;
+    border-radius:50px;
+}
+.pop {
+   color:white;
+}
+.car{
+    background-color:black;
+    height:500px;
+    width:500px;
+    border-radius:500px;
+}
+.place{
+background: url("https://media2.giphy.com/media/PIExi9tAk261W/source.gif");
+    width:700px;
+    height:100px;
+    border-radius:50px;
+}
+.place {
+   color:white;
+}
+body:hover {
+background: url("https://thumbs.gfycat.com/DarkDownrightHeron-size_restricted.gif");
+}
+.paris{
+    font-family: 'pacifico' , cursive;
+}
+.paris{
+    color:white;
+}
+.color{
+    color:white;
+}
+.back {
+    border-style: double;
+    background-color:green;
+}
+.front {
+    background: url("https://media3.giphy.com/media/b7gEffpG6CeNW/giphy.gif");
+    width:400px;
+    height:700px;
+    border-radius:500px;
+    border-style: dashed;
+    padding:50px;
+}
+.lock {
+     width:400px;
+    height:400px;
+    border-radius:200px;
+    border-style: dashed;
+    padding:10px;
+    background-color: gold;
+}
+.blue {
+     text-align: center;
+     font-family: 'Monoton', cursive;
+}
+.pink{
+    background-color: lightblue;
+    font-family: 'Rye', cursive;
+}
+.grey{
+    color: pink;
+    font-family: 'Rye', cursive;
+}
+
+
